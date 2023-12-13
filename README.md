@@ -1,1 +1,1 @@
-## ✨soluction and installation✨
+## ✨solution and installation✨
