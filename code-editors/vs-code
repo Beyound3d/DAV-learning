@@ -6,3 +6,4 @@ coderunner to run differnet programs in different language
 POSTCSS language supoort for supporting postcss
 Material theme icons for good icon support
 Monokai pro for good theme
+Prettier-npm i -D prettier as dev dependency also .make .prettiersvg and .prettierignore
