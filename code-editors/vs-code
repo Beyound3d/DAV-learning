@@ -7,3 +7,4 @@ POSTCSS language supoort for supporting postcss
 Material theme icons for good icon support
 Monokai pro for good theme
 Prettier-npm i -D prettier as dev dependency also .make .prettiersvg and .prettierignore
+Prisma-"server side library for storing data in database"
