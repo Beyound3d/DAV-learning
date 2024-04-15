@@ -29,5 +29,5 @@ miriyna
    * just
    * ask
 2. lovely
-   -cool
+   - cool
    -brp
