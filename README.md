@@ -44,3 +44,12 @@ miriyna
    > | [conda-forge]   | `conda install -c conda-forge zoxide`                                                                 |
    > | [MacPorts]      | `port install zoxide`                                                                                 |
    > | [nixpkgs]       | `nix-env -iA nixpkgs.zoxide`                                                                          |
+
+   <summary>macOS</summary>
+   ```sh  
+   enter
+   ```
+
+   1. hello tanu
+      > i know your full name
+   
