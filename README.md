@@ -34,3 +34,13 @@ miriyna
 
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
+
+
+   > | Repository      | Instructions                                                                                          |
+   > | --------------- | ----------------------------------------------------------------------------------------------------- |
+   > | **[crates.io]** | `cargo install zoxide --locked`                                                                       |
+   > | **[Homebrew]**  | `brew install zoxide`                                                                                 |
+   > | [asdf]          | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
+   > | [conda-forge]   | `conda install -c conda-forge zoxide`                                                                 |
+   > | [MacPorts]      | `port install zoxide`                                                                                 |
+   > | [nixpkgs]       | `nix-env -iA nixpkgs.zoxide`                                                                          |
