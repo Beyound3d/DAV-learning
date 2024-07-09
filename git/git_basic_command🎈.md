@@ -27,4 +27,6 @@ git reset --hard
 git add .
 git commit -m "Normalize line endings"
 
+## merge branch 
+ git update-ref -d MERGE_HEAD
 
