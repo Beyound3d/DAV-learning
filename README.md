@@ -15,6 +15,7 @@ Welcome to the Installation repository! This document outlines the steps needed 
 Before you begin, ensure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 14 or higher)
+- [Python](https://www.python.org/downloads/) 
 - [Git](https://git-scm.com/)
 - Any other dependencies required for your project.
 
