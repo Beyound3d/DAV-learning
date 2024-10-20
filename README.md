@@ -10,20 +10,32 @@ Welcome to the Installation repository! This document outlines the steps needed 
 - [Troubleshooting](#troubleshooting)
 - [Contact](#contact)
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed on your machine:
-
+# Prerequisites
 - [Node.js](https://nodejs.org/) (version 14 or higher)
 - [Python](https://www.python.org/downloads/) 
 - [Git](https://git-scm.com/)
 - Any other dependencies required for your project.
 
-You can check if you have Node.js and Git installed by running:
+## Python ()
+
+**check installation succeesful**
+```
+python --version
+```
 
 ```
-git --version
+py --version
 ```
+
+**To open shell**
+```
+python -v
+```
+
+```
+py
+```
+
 
 ## Troubleshooting
 If you encounter issues during installation, consider the following steps:
