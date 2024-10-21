@@ -45,6 +45,12 @@ node -v
 ```
 npm -v
 ```
+## Express js 
+Install node before express it a framework of nodejs
+```
+npm i express
+```
+
 
 **What is the shortcut key to exit from Python shell?**
 Keyboard shortcuts to exit Python
