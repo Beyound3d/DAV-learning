@@ -36,6 +36,16 @@ python -v
 py
 ```
 
+## Node js
+**Successful installlation**
+```
+node -v
+```
+
+```
+npm -v
+```
+
 **What is the shortcut key to exit from Python shell?**
 Keyboard shortcuts to exit Python
 
