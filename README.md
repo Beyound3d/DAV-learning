@@ -93,6 +93,39 @@ git remote
 git push -u origin master
 ```
 
+**pull chaanges to local repository**
+```
+git pull origin master --allow-unrelated-histories
+```
+
+**push changes to remote repo after pull**
+  something related to upstream
+  to manage LF and CRLF
+  ```
+git config --global core.autocrlf true
+```
+
+
+**undo commit changes from staged area to local area**
+```
+git rm --cached -r .
+```
+
+ ```
+ git reset --hard
+```
+
+ ```
+ git add .
+```
+
+```
+ git commit -m "Normalize line endings"
+```
+
+**merge branch**
+```git update-ref -d MERGE_HEAD
+```
 
 **What is the shortcut key to exit from Python shell?**
 Keyboard shortcuts to exit Python
