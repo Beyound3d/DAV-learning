@@ -93,7 +93,7 @@ git remote
 git push -u origin master
 ```
 
-**pull chaanges to local repository**
+**pull changes to local repository**
 ```
 git pull origin master --allow-unrelated-histories
 ```
@@ -124,7 +124,8 @@ git rm --cached -r .
 ```
 
 **merge branch**
-```git update-ref -d MERGE_HEAD
+```
+git update-ref -d MERGE_HEAD
 ```
 
 **What is the shortcut key to exit from Python shell?**
