@@ -51,6 +51,47 @@ Install node before express it a framework of nodejs
 npm i express
 ```
 ## Git
+**In between compare sign fill your details**
+```
+git config --global user.name <Username>
+```
+
+
+```
+git status
+```
+
+```
+git init
+```
+
+
+or file name after add
+```
+git add .
+```
+ 
+```
+touch
+```
+
+
+```
+git commit -m <commit msz>
+```
+
+create repo in GitHub before ADDING TO GITHUB
+```
+git remote add origin <gitUrl>
+```
+
+```
+git remote
+```
+
+```
+git push -u origin master
+```
 
 
 **What is the shortcut key to exit from Python shell?**
