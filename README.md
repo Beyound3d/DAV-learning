@@ -36,6 +36,13 @@ python -v
 py
 ```
 
+**What is the shortcut key to exit from Python shell?**
+Keyboard shortcuts to exit Python
+
+In the Python interpreter or terminal, you can exit Python by pressing Ctrl + Z on Windows or Ctrl + D on macOS.
+These shortcuts signal the interpreter that the file is complete and tell it to terminate Python. Like os. _exit(),
+this method does not execute any cleanup tasks.
+
 ## Node js
 **Successful installlation**
 ```
@@ -128,12 +135,7 @@ git rm --cached -r .
 git update-ref -d MERGE_HEAD
 ```
 
-**What is the shortcut key to exit from Python shell?**
-Keyboard shortcuts to exit Python
 
-In the Python interpreter or terminal, you can exit Python by pressing Ctrl + Z on Windows or Ctrl + D on macOS.
-These shortcuts signal the interpreter that the file is complete and tell it to terminate Python. Like os. _exit(),
-this method does not execute any cleanup tasks.
 
 ## Troubleshooting
 If you encounter issues during installation, consider the following steps:
