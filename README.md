@@ -18,7 +18,7 @@ Welcome to the Installation repository! This document outlines the steps needed 
 
 
 ## Python ()
-<img src="https://github.com/beyound3d/Solutions_And_Installation/blob/master/pythonbanner.png" width="50dp" height="50dp"/>
+<img src="https://github.com/beyound3d/Solutions_And_Installation/blob/master/pythonbanner.png"/>
 
 **check installation succeesful**
 ```
