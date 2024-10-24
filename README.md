@@ -14,6 +14,7 @@ Welcome to the Installation repository! This document outlines the steps needed 
 - [Node.js](https://nodejs.org/) (version 14 or higher)
 - [Python](https://www.python.org/downloads/) 
 - [Git](https://git-scm.com/)
+- [flutter](https://docs.flutter.dev/get-started/install/windows/mobile)
 - Any other dependencies required for your project.
 
 
@@ -136,7 +137,18 @@ git rm --cached -r .
 ```
 git update-ref -d MERGE_HEAD
 ```
+# Flutter
+```
+flutter
+```
 
+```
+flutter doctor
+```
+
+```
+flutter doctor --android-licenses
+```
 
 
 ## Troubleshooting
