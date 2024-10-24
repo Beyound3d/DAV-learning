@@ -150,6 +150,10 @@ flutter doctor
 flutter doctor --android-licenses
 ```
 
+```
+flutter run
+```
+
 
 ## Troubleshooting
 If you encounter issues during installation, consider the following steps:
